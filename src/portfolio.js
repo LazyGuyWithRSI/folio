@@ -23,7 +23,7 @@ const greeting = {
   username: "Ian Chapman",
   title: "Hi all, I'm Ian",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience building and maintaining Web applications with JavaScript / Reactjs / Scala."
+    "A passionate Full Stack Software Developer 🚀 with experience building and maintaining Web applications with JavaScript / Reactjs / Scala."
   ),
   resumeLink:
     "", // Set to empty to hide the button
@@ -51,7 +51,7 @@ const skillsSection = {
       "⚡ Develop highly scalable and reliable web applications"
     ),
     emoji(
-      "⚡ Create embedded systems for robotic control systems"
+      "⚡ Create embedded robotic control systems"
     )
   ],
 
@@ -198,7 +198,7 @@ const bigProjects = {
       projectDesc: "Pick and Place robot using computer vision",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "Visit Repo",
           url: "http://saayahealth.com/"
         }
         //  you can add extra buttons here.
@@ -210,7 +210,7 @@ const bigProjects = {
       projectDesc: "Unreleased naval combat mobile game",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "Visit Repo",
           url: "http://nextu.se/"
         }
       ]
